@@ -15,16 +15,16 @@ export function Home() {
 			<Jumbotron />
 			<div className="container">
 				<div className="row">
-					<div className="col-3">
+					<div className="col-xl-3">
 						<Card />
 					</div>
-					<div className="col-3">
+					<div className="col-xl-3">
 						<Card />
 					</div>
-					<div className="col-3">
+					<div className="col-xl-3">
 						<Card />
 					</div>
-					<div className="col-3">
+					<div className="col-xl-3">
 						<Card />
 					</div>
 				</div>

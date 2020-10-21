@@ -2,10 +2,8 @@ import React from "react";
 
 export function Footer(props) {
 	return (
-		<div className="row bg-dark">
-			<div className="col-12 d-flex justify-content-center text-white p-5">
-				Footer
-			</div>
-		</div>
+		<nav className="navbar navbar-dark bg-dark justify-content-center p-3 mt-3">
+			<span className="navbar-brand">Copyright @ Your Website 2020</span>
+		</nav>
 	);
 }
